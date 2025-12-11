@@ -142,3 +142,30 @@ Combined ML + rule-based reports improve interpretability for non-technical user
 📜 License
 
 This project is free to use for personal, learning, and academic purposes.
+
+
+<p align="center">
+
+  <!-- Project Status -->
+  <img src="https://img.shields.io/badge/Status-Active-brightgreen?style=for-the-badge" />
+
+  <!-- Python Version -->
+  <img src="https://img.shields.io/badge/Python-3.8%2B-blue?style=for-the-badge&logo=python" />
+
+  <!-- License -->
+  <img src="https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge" />
+
+  <!-- Notebook -->
+  <img src="https://img.shields.io/badge/Notebook-Jupyter-orange?style=for-the-badge&logo=jupyter" />
+
+  <!-- Machine Learning -->
+  <img src="https://img.shields.io/badge/Machine%20Learning-Enabled-purple?style=for-the-badge&logo=googlecolab" />
+
+  <!-- XGBoost -->
+  <img src="https://img.shields.io/badge/Model-XGBoost-red?style=for-the-badge&logo=xgboost" />
+
+  <!-- Gradio -->
+  <img src="https://img.shields.io/badge/UI-Gradio-0099ff?style=for-the-badge&logo=gradio" />
+
+</p>
+
